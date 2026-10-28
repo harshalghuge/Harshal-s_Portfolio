@@ -1,0 +1,32 @@
+export const projects = [
+  {
+    number: '01',
+    title: 'Construction Desk',
+    category: 'Full-stack product',
+    description: 'A practical workflow for small construction suppliers to manage clients, sites, material deliveries, and billing in one place.',
+    stack: ['React', 'Node.js', 'MongoDB'],
+    accent: 'project-art-orange',
+    href: 'https://github.com/',
+    label: 'View project',
+  },
+  {
+    number: '02',
+    title: 'GigXpress',
+    category: 'Final-year project',
+    description: 'A trust-focused platform concept connecting students and local workers with flexible, part-time opportunities.',
+    stack: ['MERN', 'Firebase', 'Maps API'],
+    accent: 'project-art-lime',
+    href: 'https://github.com/',
+    label: 'Explore project',
+  },
+  {
+    number: '03',
+    title: 'Recipe Finder',
+    category: 'Web application',
+    description: 'A responsive recipe discovery experience designed to make finding ideas and browsing meals feel effortless.',
+    stack: ['React', 'Express', 'MongoDB'],
+    accent: 'project-art-violet',
+    href: 'https://github.com/',
+    label: 'View project',
+  },
+]
